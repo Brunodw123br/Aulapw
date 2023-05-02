@@ -1,0 +1,41 @@
+.container{
+    width: 100%;
+    background-color: #f8f4f4;
+    position:static;
+    bottom: 0;
+    height: 9rem; 
+    padding-left: 1rem;
+    display: inline-block;
+    box-shadow: #666 1px 1px 5px 1px;
+    border-top: 0.0675rem double #4e4e4e;
+}
+.forum a{
+    text-decoration: none;
+    color: #999;
+}
+.forum a:hover{
+    color: #666;
+}
+.forum{
+    margin-top: 10px;
+    display: flex;
+    width: 100%;
+}
+.texto{
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+    width: 100%;
+}
+.texto p{
+    color: #999;
+}
+#solo{
+    margin-left: 70rem;
+    border-right: #999 1px outset;
+    margin-right: 1rem;
+    padding-right: 1rem;
+}
+#primeiro{
+    margin-top: 2rem;
+}
